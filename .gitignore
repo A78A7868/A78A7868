@@ -1,0 +1,6 @@
+# Ignore separate project repositories
+web-security-scanner/
+mini-compiler/
+
+# macOS files
+.DS_Store
