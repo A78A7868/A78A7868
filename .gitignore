@@ -1,6 +1,8 @@
 # Ignore separate project repositories
 web-security-scanner/
 mini-compiler/
+fake-news-detection/
+gym-trainer/
 
 # macOS files
 .DS_Store
